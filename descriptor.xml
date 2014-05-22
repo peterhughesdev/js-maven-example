@@ -1,0 +1,12 @@
+<assembly>
+  <includeBaseDirectory>false</includeBaseDirectory>
+  <formats>
+    <format>zip</format>
+  </formats>
+  <fileSets>
+    <fileSet>
+      <directory>target/release</directory>
+      <outputDirectory>/</outputDirectory>
+    </fileSet>
+  </fileSets>
+</assembly>
